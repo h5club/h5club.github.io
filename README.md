@@ -1,4 +1,4 @@
 h5club.github.io
 ================
 
-html5 club
+HTML5 Club
